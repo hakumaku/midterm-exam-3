@@ -1,0 +1,6 @@
+__pycache__/
+
+#123
+# IDEs
+.vscode/
+.idea/
